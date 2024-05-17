@@ -1,3 +1,1 @@
-# CODDER
-
-new coder community
+Python code for colour conversion
